@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Junaid2113\\Jello;
+namespace Junaid2113\Jello;
 
 use Flarum\Extend;
 
